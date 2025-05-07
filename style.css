@@ -1,0 +1,34 @@
+h1{
+    text-align: center;
+    font-size: 88px;
+    width: 500px;
+    margin: auto;
+}
+
+.box div {
+   
+    width: 393px;
+    height: 396px;
+    text-align: center;
+}
+.box{
+    display: flex;
+    flex-wrap: wrap;
+justify-content: space-around;
+gap: 20px;
+}
+header{
+    background-color: black;
+    display: flex;
+   align-items: center;
+    justify-content: space-around;
+    height: 70px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+nav{
+    display: flex;
+    gap: 30px;
+}
